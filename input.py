@@ -1,0 +1,6 @@
+print('Enter your name:')
+x = input()
+print('Hello, ' + x)
+# python program to demonstrate input(prompt)
+x = input('Enter your name:')
+print('Hello, ' + x)
