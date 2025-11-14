@@ -1,0 +1,3 @@
+Hello! Welcome to IT workshop with Python
+This file is for IT Workshop with Python lab.
+Good Luck!
